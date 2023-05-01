@@ -12,7 +12,7 @@ Working with dataset using Jupyter Notebook
 
 # 3: spaCY
   - This folder contains various NLP practice using spaCy function in Python.
-  - NLP folder
+  - NLP folder</br>
     'garden.py' tokenises and performs NER(Named Entity Recognition) for each garden path sentence.</br>
      also explains what each entity.</br>
     'watch_next.py' recommends which movie to watch next based on the similarity of the movie descriptions from movie.txt file.</br>
