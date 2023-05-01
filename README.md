@@ -10,7 +10,7 @@ Working with dataset using Jupyter Notebook
   - using numPy, pandas, matplotlib, sklearn to visualise dataset and find linear regression/best-fit line.
   - Visualise and find the correlation between age and insurance charges.
 
-# 3: spaCY
+# 3: spaCy
   - This folder contains various NLP practice using spaCy function in Python.
   - NLP folder</br>
     'garden.py' tokenises and performs NER(Named Entity Recognition) for each garden path sentence.</br>
